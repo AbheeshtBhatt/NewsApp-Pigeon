@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": null,
+            "title": "Basketball - Star Dennis Schröder: 61,000 - Euro - clock stolen from cabin at international match | Regional ",
+            " description ": " While Dennis Schröder played ( 29 ), someone got into the changing room ... ",
+            " url ": " http://www.bild.de/regional/hamburg/hamburg-aktuell/basketball-star-dennis-schroeder-61-000-euro-uhr-bei-laenderspiel-aus-kabine-gek-81597982.bild.html",
+            "urlToImage": "https://images.bild.de/63469d826ceb0922a89a632e/66b4308a9bfebdc8ef7bb8588e269cc7,78ffb725?w=1280",
+            "publishedAt": "2022-10-12T17:05:56Z",
+            "content": "Hamburg - While Dennis Schröder ( 29 ) fought the defeat against Italy with the basketball - national team in Wilhelmsburg, someone set out in the German changing room ..."
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": ".cult",
+            "title": "The best coding bootcamps in Europe in 2022",
+            "description": "This article was originally published on .cult by Luis Minvielle. .cult is a Berlin-based community platform for developers. We write about all things career-related, make original ...",
+            "url": "http://thenextweb.com/news/the-best-coding-bootcamps-in-europe-in-2022",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2FAdd-a-heading.jpg&signature=044d791b354edeadb7c21f4cd278828d",
+            "publishedAt": "2022-09-30T13:00:05Z",
+            "content": "This article was originally published on .cult by Luis Minvielle. .cult is a Berlin-based community platform for developers. We write about all things career-related, make original documentaries, and… [+5933 chars]"
+        }
+    ]
+}
